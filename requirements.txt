@@ -1,0 +1,8 @@
+fastapi[standard]
+uvicorn
+sdv
+sdmetrics
+syntheval
+docker
+pytest
+streamlit
